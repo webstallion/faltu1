@@ -1,1 +1,1 @@
-this is file2 in three repo
+this is file2 in three repo of branch bug

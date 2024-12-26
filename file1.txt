@@ -1,4 +1,1 @@
-this is file1 of three repo
-add another file
-add another test
-add another 33 text
+this is file1 of three repo of branch bug
